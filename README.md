@@ -1,3 +1,5 @@
-# Testing
+## Image Testing
+<h2>Image in a Circle</h2>
+<p>You do not need boostrap, you can use w3-schools libraries instead</p>
 
-<img src='https://user-images.githubusercontent.com/49745633/213660082-dffb293d-1a29-4f7d-8b5d-71f364b9581f.mp4' alt="" style="width:100%">
+<img src="https://github.com/kbshal/Nepali_Ho_Ni_vertex_hacks/blob/master/medias/bishal_kharal.jpg" class="w3-circle" alt="" style="width:50%">
